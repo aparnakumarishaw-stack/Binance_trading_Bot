@@ -1,0 +1,17 @@
+2026-02-27 23:27:36,313 - INFO - Connected to Server. Syncing time...
+2026-02-27 23:27:37,676 - ERROR - ERROR: Connection failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-02-27 23:31:06,305 - ERROR - Main execution error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-02-27 23:32:07,776 - INFO - Sending MARKET BUY for BTCUSDT...
+2026-02-27 23:32:09,248 - ERROR - FINAL ATTEMPT FAILED: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-02-27 23:42:02,249 - INFO - --- NEW SESSION STARTED ---
+2026-02-27 23:42:02,467 - INFO - Time synced. Offset: -4204ms
+2026-02-27 23:42:03,653 - INFO - CONNECTION SUCCESS: Balance is 4999.94749168 USDT
+2026-02-27 23:42:03,666 - INFO - Placing Market Buy Order for 0.002 BTC...
+2026-02-27 23:42:04,139 - INFO - ORDER SUCCESS! Order ID: 12556102934
+2026-02-27 23:42:04,152 - INFO - --- SESSION FINISHED SUCCESSFULLY ---
+2026-02-27 23:59:23,014 - INFO - --- NEW SESSION STARTED ---
+2026-02-27 23:59:23,191 - INFO - Time synced. Offset: -4271ms
+2026-02-27 23:59:24,489 - INFO - CONNECTION SUCCESS: Balance is 4999.89504544 USDT
+2026-02-27 23:59:24,490 - INFO - Placing Market Buy Order for 0.002 BTC...
+2026-02-27 23:59:24,655 - INFO - ORDER SUCCESS! Order ID: 12556140396
+2026-02-27 23:59:24,655 - INFO - --- SESSION FINISHED SUCCESSFULLY ---
